@@ -153,7 +153,7 @@ def deathscreen():
 
     pX = 485
     pY = 650
-    score_value = 0
+    
     up = 0
     up1 = 0
     pXC = 0
