@@ -159,7 +159,9 @@ def deathscreen():
     pXC = 0
     o1y = -150
     o1x = random.randint(0, 925)
-    life = 0
+    life1 = 0
+    life2 = 0
+    life3 = 0
 
     screen.blit(death, (360, 150))
 
